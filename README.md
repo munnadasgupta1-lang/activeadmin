@@ -3,6 +3,8 @@
 [Active Admin](https://activeadmin.info) is a Ruby on Rails framework for
 creating elegant backends for website administration.
 
+Credit: Munna Das Gupta8 (munna) | munnadasgupta1@gmail.com
+
 [![Version][rubygems_badge]][rubygems]
 [![Github Actions][actions_badge]][actions]
 [![Coverage][coverage_badge]][coverage]
